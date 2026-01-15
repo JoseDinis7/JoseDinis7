@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Redes Sociais & Contato
+## Contacte-me
 
 <p align="center">
   <a href="https://github.com/JoseDinis7">
@@ -34,31 +34,28 @@
 
 ---
 
-## 🛠️ Tecnologias & Linguagens
+## Tecnologias & Linguagens que uso 
 
-### 💻 Linguagens de Programação
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
- 
-</p>
-
-### 🌐 Front-end
-<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-</p>
-
-### ⚙️ Ferramentas & Plataformas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
 </p>
 
+---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseDinis7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseDinis7&theme=tokyonight" />
+</p>
 
 ---
 
@@ -72,10 +69,19 @@
 
 ---
 
- >*"uma linha de codigo pode mudar o mundo"* 🚀
+### Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoseDinis7&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoseDinis7&label=Visitas+ao+perfil&color=blueviolet&style=flat" />
 </p>
+
+ >*"uma linha de codigo pode mudar o mundo"* 
+
+
+
